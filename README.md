@@ -26,7 +26,7 @@ python train_pl.py --name [exp_name] --exp recon_cvpr23
 ```
 python evaluation.py --name [exp_name] --task cam --dict_dir dict
 ```
-* Pretrained weight (PASCAL, seed: 59.9% mIoU) can be downloaded [here](https://drive.google.com/drive/folders/1Ak7eAs8Y8ujjv8TKIp-qCW20fgiIWTc2?usp=sharing).
+* Pretrained weight (PASCAL, seed: 59.9% mIoU) can be downloaded [here]([https://drive.google.com/drive/folders/1Ak7eAs8Y8ujjv8TKIp-qCW20fgiIWTc2?usp=sharing](https://drive.google.com/drive/folders/18TW8-SZcmsPEF8mmbGI5EG14rbh6EFYY?usp=sharing)).
 
 ## Citation
 If our code be useful for you, please consider citing our CVPR 2023 paper using the following BibTeX entry.
